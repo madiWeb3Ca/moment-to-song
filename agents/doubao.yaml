@@ -1,0 +1,7 @@
+interface:
+  display_name: "专属MV工坊"
+  short_description: "照片或视频变专属MV：原创词曲、质检、字幕、品牌尾片一条流水线"
+  default_prompt: "使用 $moment-to-song 帮我做一支专属MV"
+
+policy:
+  allow_implicit_invocation: true
